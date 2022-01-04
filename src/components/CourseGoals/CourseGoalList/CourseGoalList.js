@@ -2,6 +2,7 @@ import React from 'react';
 
 import CourseGoalItem from '../CourseGoalItem/CourseGoalItem';
 import './CourseGoalList.css';
+import Button from '../../UI/Button/Button';
 
 const CourseGoalList = props => {
   return (
